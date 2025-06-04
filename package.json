@@ -1,0 +1,39 @@
+{
+  "name": "angelbroking-live-data-vercel",
+  "version": "1.0.0",
+  "description": "Angel Broking live market data with MongoDB on Vercel",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.14",
+    "axios": "^1.5.0",
+    "dotenv": "^16.5.0",
+    "lucide-react": "^0.263.1",
+    "mongodb": "^6.0.0",
+    "next": "^14.0.0",
+    "otplib": "^12.0.1",
+    "postcss": "^8.4.24",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "tailwindcss": "^3.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.15.29",
+    "@types/react": "19.1.6",
+    "eslint": "^8.45.0",
+    "eslint-config-next": "^14.0.0"
+  },
+  "keywords": [
+    "angel-broking",
+    "smartapi",
+    "market-data",
+    "mongodb",
+    "vercel"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
